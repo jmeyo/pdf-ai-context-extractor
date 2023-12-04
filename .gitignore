@@ -1,0 +1,15 @@
+*.pyc
+__pycache__/
+*.pdf
+.venv/
+venv/
+
+# Local development and publishing helper files
+PUSH_TO_GITHUB.md
+GITHUB_SUCCESS.md
+COMMIT_TIMELINE.md
+READY_TO_PUBLISH.md
+PUBLISHING_GUIDE.md
+create_*_history.sh
+verify_setup.sh
+test_locale.py
